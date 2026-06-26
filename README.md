@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Abenanthan+%F0%9F%91%8B;Software+Engineer+In+Make;Machine+Learning+%7C+Android+Dev+%7C+Designer;Turning+Ideas+Into+Algorithms+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Abenanthan+%F0%9F%91%8B;Software+Engineer+In+Make;Android+Dev+%7C+Designer+%7C+AI+%26+ML+Dev;Turning+Ideas+Into+Algorithms+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -52,7 +52,17 @@ From detecting road damage with deep learning to fighting cyberbullying with NLP
 <tr>
 <td align="center" width="50%">
 
+### VibeUp
+**Full-Featured Android Music Streaming App**
 
+An Android music streaming app streaming **Tamil, Telugu & Hindi music** via JioSaavn API. Features Firebase authentication, playlist management, and real-time media controls with lock screen & notification support.
+
+`Kotlin` `Jetpack Compose` `Firebase Auth & Firestore` `ExoPlayer/Media3`
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abenanthan)
+
+</td>
+<td align="center" width="50%">
 
 ### BitVerity
 **AI-Monitored Competitive Coding Platform**
@@ -65,6 +75,8 @@ A full-stack platform with a **real-time multi-model ML pipeline** detecting AI-
 [![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abenanthan/BitVerity)
 
 </td>
+</tr>
+<tr>
 <td align="center" width="50%">
 
 ### Urban Road Inspector
@@ -73,20 +85,6 @@ A full-stack platform with a **real-time multi-model ML pipeline** detecting AI-
 An end-to-end road damage detection system progressing through **binary classification → 4-class damage recognition → real-time bounding box localization** using YOLOv8s. Built on RDD2022 dataset with ResNet-50 backbone.
 
 `Python` `PyTorch` `ResNet-50` `YOLOv8s` `Torchvision`
-
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abenanthan)
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### VibeUp
-**Full-Featured Android Music Streaming App**
-
-An Android music streaming app streaming **Tamil, Telugu & Hindi music** via JioSaavn API. Features Firebase authentication, playlist management, and real-time media controls with lock screen & notification support.
-
-`Kotlin` `Jetpack Compose` `Firebase Auth & Firestore` `ExoPlayer/Media3`
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abenanthan)
 
