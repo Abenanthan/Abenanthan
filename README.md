@@ -2,14 +2,14 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Abenanthan+%F0%9F%91%8B;Building+AI+systems+that+actually+work;Deep+Learning+%7C+Android+Dev+%7C+Cloud+Arch;From+Chennai+%E2%80%94+shipping+code+%26+ideas+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Abenanthan+%F0%9F%91%8B;Software+Engineer+In+Make;Machine+Learning+%7C+Android+Dev+%7C+Designer;Turning+Ideas+Into+Algorithms+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abenanthan-p-561485318)
 [![Email](https://img.shields.io/badge/Gmail-abenanthan.72007%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abenanthan.72007@gmail.com)
-[![Phone](https://img.shields.io/badge/Mobile-%2B91%20XXXXXXXXXX-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+91XXXXXXXXXX)
+[![Phone](https://img.shields.io/badge/Mobile-%2B91%209940867949-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+91XXXXXXXXXX)
 
 </div>
 
@@ -274,7 +274,7 @@ A deep learning content moderation system using **Bidirectional LSTM** that dete
 &nbsp;
 [![Email](https://img.shields.io/badge/Gmail-abenanthan.72007%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abenanthan.72007@gmail.com)
 &nbsp;
-[![Phone](https://img.shields.io/badge/Mobile-%2B91%20XXXXXXXXXX-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+91XXXXXXXXXX)
+[![Phone](https://img.shields.io/badge/Mobile-%2B91%209940867949-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+91XXXXXXXXXX)
 
 <br/>
 
