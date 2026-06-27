@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Abenanthan+%F0%9F%91%8B;Software+Engineer+In+Make;Android+Dev+%7C+Designer+%7C+AI+%26+ML+Dev;Turning+Ideas+Into+Algorithms+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Abenanthan+%F0%9F%91%8B;Software+Engineer+In+Make;Android+Dev+%7C+Designer+%7C+AI+%26+ML;Python+%7C+Java+%7C+SQL+%7C+NoSQL;Turning+Ideas+Into+Algorithms+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -111,40 +111,40 @@ A deep learning content moderation system using **Bidirectional LSTM** that dete
 ## 💼 &nbsp;Experience
 
 <details>
-<summary><b>🤖 &nbsp;AI Intern — KuttyKoncepts, Rajalakshmi Engineering College</b> &nbsp;&nbsp;|&nbsp;&nbsp; 2026 – Present &nbsp;&nbsp;|&nbsp;&nbsp; Chennai, India</summary>
+<summary><b> &nbsp;AI Intern — KuttyKoncepts, Rajalakshmi Engineering College</b> &nbsp;&nbsp;|&nbsp;&nbsp; 2026 – Present &nbsp;&nbsp;|&nbsp;&nbsp; Chennai, India</summary>
 <br/>
 
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI/ML](https://img.shields.io/badge/AI%2FML-BF91F3?style=flat-square) ![Moodle](https://img.shields.io/badge/Moodle-F98012?style=flat-square&logo=moodle&logoColor=white) ![MoviePy](https://img.shields.io/badge/MoviePy-38BDAE?style=flat-square) ![gTTS](https://img.shields.io/badge/gTTS-70A5FD?style=flat-square)
 
-- 🥇 **Secured 1st Place** in a competitive internship program and was selected to contribute to institution-scale AI projects at REC
-- 🎬 Built an automated **AI-powered animated educational video pipeline** using MoviePy, gTTS, and Pillow in Google Colab
-- 🎙️ Developed AI voiceover and video editing workflows for fully automated academic content generation
-- 🏫 Contributed to **Moodle-based LMS development**, video platform integration, and smart digital learning design
+- **Secured 1st Place** in a competitive internship program and was selected to contribute to institution-scale AI projects at REC
+- Built an automated **AI-powered animated educational video pipeline** using MoviePy, gTTS, and Pillow in Google Colab
+- Developed AI voiceover and video editing workflows for fully automated academic content generation
+- Contributed to **Moodle-based LMS development**, video platform integration, and smart digital learning design
 
 </details>
 
 <details>
-<summary><b>🌐 &nbsp;IoT Intern — National Small Industries Corporation (NSIC), Technical Services Centre</b> &nbsp;&nbsp;|&nbsp;&nbsp; Dec 2025 &nbsp;&nbsp;|&nbsp;&nbsp; Chennai, India</summary>
+<summary><b> &nbsp;IoT Intern — National Small Industries Corporation (NSIC), Technical Services Centre</b> &nbsp;&nbsp;|&nbsp;&nbsp; Dec 2025 &nbsp;&nbsp;|&nbsp;&nbsp; Chennai, India</summary>
 <br/>
 
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) ![ThingSpeak](https://img.shields.io/badge/ThingSpeak-38BDAE?style=flat-square) ![REST API](https://img.shields.io/badge/REST%20API-70A5FD?style=flat-square)
 
-- 🚦 Led end-to-end development of a **Raspberry Pi–Based Traffic Congestion Analytics System**
-- 🐍 Wrote Python modules for traffic data simulation, congestion analysis, and edge-level processing
-- ☁️ Integrated the system with **ThingSpeak IoT Cloud Platform** via REST APIs for real-time visualization
-- 📊 Delivered a full edge-to-cloud telemetry pipeline demonstrating the complete IoT lifecycle
+- Led end-to-end development of a **Raspberry Pi–Based Traffic Congestion Analytics System**
+- Wrote Python modules for traffic data simulation, congestion analysis, and edge-level processing
+- Integrated the system with **ThingSpeak IoT Cloud Platform** via REST APIs for real-time visualization
+- Delivered a full edge-to-cloud telemetry pipeline demonstrating the complete IoT lifecycle
 
 </details>
 
 <details>
-<summary><b>🎨 &nbsp;Design Team Member — CyberSentinels Club, Rajalakshmi Engineering College</b> &nbsp;&nbsp;|&nbsp;&nbsp; 2025 – Present &nbsp;&nbsp;|&nbsp;&nbsp; Chennai, India</summary>
+<summary><b> &nbsp;Design Team Member — CyberSentinels Club, Rajalakshmi Engineering College</b> &nbsp;&nbsp;|&nbsp;&nbsp; 2025 – Present &nbsp;&nbsp;|&nbsp;&nbsp; Chennai, India</summary>
 <br/>
 
 > ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
-- 🖼️ Designed posters, presentations, and digital content for technical cybersecurity events and workshops
-- 🤝 Collaborated cross-functionally to produce visually engaging, user-friendly designs for event outreach
-- 📣 Drove the club's promotional reach through consistent branding and creative visual communication
+- Designed posters, presentations, and digital content for technical cybersecurity events and workshops
+- Collaborated cross-functionally to produce visually engaging, user-friendly designs for event outreach
+- Drove the club's promotional reach through consistent branding and creative visual communication
 
 </details>
 
@@ -251,11 +251,11 @@ A deep learning content moderation system using **Bidirectional LSTM** that dete
 **🧠 Currently Learning**
 
 ```
-🤖  Deep Learning (CV)      →  Object Detection · Semantic Segmentation · Instance Segmentation
-☁️   Cloud Architecture      →  AWS Solutions Architect · EC2 · S3 · Lambda · VPC
-🦾  MLOps                   →  Model Deployment · Docker · Experiment Tracking (W&B)
-📱  Android Development     →  Advanced Jetpack Compose · Coroutines · Clean Architecture
-🔐  Cybersecurity            →  Networking Fundamentals · Linux Security · Ethical Hacking Basics
+ Deep Learning (CV)      →  Object Detection · Semantic Segmentation · Instance Segmentation
+ Cloud Architecture      →  AWS Solutions Architect · EC2 · S3 · Lambda · VPC
+ MLOps                   →  Model Deployment · Docker · Experiment Tracking (W&B)
+ Android Development     →  Advanced Jetpack Compose · Coroutines · Clean Architecture
+ Cybersecurity           →  Networking Fundamentals · Linux Security · Ethical Hacking Basics
 ```
 
 ---
