@@ -217,9 +217,9 @@ A deep learning content moderation system using **Bidirectional LSTM** that dete
 ## 📊 &nbsp;GitHub Activity
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Abenanthan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&hide=stars,prs,issues&custom_title=Total%20Contributions"/>
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abenanthan&show_icons=true&theme=tokyonight&hide_rank=true"/>
   &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abenanthan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abenanthan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </div>
 
 <br/>
@@ -264,7 +264,7 @@ A deep learning content moderation system using **Bidirectional LSTM** that dete
 
 <br/>
 
-### *" Build. &nbsp; Break. &nbsp; Learn. &nbsp; Repeat. &nbsp; 🔁 "*
+### *" Build. &nbsp; Break. &nbsp; Learn. &nbsp; Repeat&nbsp;"*
 
 <br/>
 
