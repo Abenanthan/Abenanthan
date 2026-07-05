@@ -270,7 +270,7 @@ A deep learning content moderation system using **Bidirectional LSTM** that dete
 
 <br/>
 
-### *" Build. &nbsp; Break. &nbsp; Learn. &nbsp; Repeat&nbsp;"*
+### *" Learn. &nbsp; Build. &nbsp; Repeat. &nbsp;"*
 
 <br/>
 
