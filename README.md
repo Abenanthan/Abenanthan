@@ -25,7 +25,7 @@
 <tr>
 <td width="55%" valign="top">
 
-### 👨‍💻 &nbsp;About Me
+###  &nbsp;ABOUT ME
 
 I'm a **Computer Science Engineering student** at Rajalakshmi Engineering College, Chennai, passionate about building things at the intersection of **AI, Cloud, and real-world impact**.
 
