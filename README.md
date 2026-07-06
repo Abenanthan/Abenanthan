@@ -156,7 +156,7 @@ A deep learning content moderation system using **Bidirectional LSTM** that dete
 
 ---
 
-## 🏅 &nbsp;Achievements
+##  &nbsp;ACHIEVEMENTS
 
 <div align="center">
 
@@ -172,7 +172,7 @@ A deep learning content moderation system using **Bidirectional LSTM** that dete
 
 ---
 
-## 🛠️ &nbsp;Tech Stack
+##  &nbsp;TECH STACK
 
 <div align="center">
 
@@ -220,7 +220,7 @@ A deep learning content moderation system using **Bidirectional LSTM** that dete
 
 ---
 
-## 📊 &nbsp;GitHub Activity
+## 📊 &nbsp;GITHUB ACTIVITY
 
 <div align="center">
   <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abenanthan&show_icons=true&theme=tokyonight&hide_rank=true"/>
@@ -242,7 +242,7 @@ A deep learning content moderation system using **Bidirectional LSTM** that dete
 
 ---
 
-## 🎓 &nbsp;Education & Learning Roadmap
+##  &nbsp;EDUCATION AND LEARNING
 
 <div align="center">
 
