@@ -220,7 +220,7 @@ A deep learning content moderation system using **Bidirectional LSTM** that dete
 
 ---
 
-## 📊 &nbsp;GITHUB ACTIVITY
+##  &nbsp;GITHUB ACTIVITY
 
 <div align="center">
   <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abenanthan&show_icons=true&theme=tokyonight&hide_rank=true"/>
