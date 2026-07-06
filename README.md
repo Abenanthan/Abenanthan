@@ -50,7 +50,7 @@ From detecting road damage with deep learning to fighting cyberbullying with NLP
 
 ---
 
-##  &nbsp;Featured Projects
+##  &nbsp;FEATURED PROJECTS
 
 <div align="center">
 
@@ -114,7 +114,7 @@ A deep learning content moderation system using **Bidirectional LSTM** that dete
 
 ---
 
-##  &nbsp;Experience
+##  &nbsp;EXPERIENCE
 
 <details>
 <summary><b> &nbsp;AI Intern — KuttyKoncepts, Rajalakshmi Engineering College</b> &nbsp;&nbsp;|&nbsp;&nbsp; 2026 – Present &nbsp;&nbsp;|&nbsp;&nbsp; Chennai, India</summary>
