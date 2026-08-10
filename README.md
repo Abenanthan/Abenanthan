@@ -222,13 +222,6 @@ A deep learning content moderation system using **Bidirectional LSTM** that dete
 
 ##  &nbsp;GITHUB ACTIVITY
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abenanthan&show_icons=true&theme=tokyonight&hide_rank=true"/>
-  &nbsp;
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abenanthan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Abenanthan&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10&hide_current_streak=false&hide_longest_streak=true&hide_total_contributions=true&mode=weekly&custom_title=Total%20Commits"/>
