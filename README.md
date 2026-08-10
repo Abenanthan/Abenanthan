@@ -220,20 +220,49 @@ A deep learning content moderation system using **Bidirectional LSTM** that dete
 
 ---
 
-##  &nbsp;GITHUB ACTIVITY
+
+---
+
+## &nbsp;GITHUB ACTIVITY
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Abenanthan&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10&hide_current_streak=false&hide_longest_streak=true&hide_total_contributions=true&mode=weekly&custom_title=Total%20Commits"/>
+
+<a href="https://github.com/Abenanthan">
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=Abenanthan&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=12&hide_current_streak=false&hide_longest_streak=false&hide_total_contributions=false&mode=weekly&custom_title=Contribution%20Streak"/>
+
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Abenanthan">
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abenanthan&theme=tokyo-night&bg_color=0D1117&color=70A5FD&line=BF91F3&point=38BDAE&area=true&hide_border=true&radius=12&custom_title=Contribution%20Activity&days=35"/>
+
+</a>
+<br/><br/>
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abenanthan&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+
+<a href="https://github.com/Abenanthan">
+
+<img width="40%" src="https://github-stats-extended.vercel.app/api?username=Abenanthan&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true"/>
+
+</a>
+
+<a href="https://github.com/Abenanthan">
+
+<img width="40%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abenanthan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</a>
+
+<br/><br/>
 </div>
 
 ---
+
 
 ##  &nbsp;EDUCATION AND LEARNING
 
