@@ -117,7 +117,7 @@ A deep learning content moderation system using **Bidirectional LSTM** that dete
 ##  &nbsp;EXPERIENCE
 
 <details>
-<summary><b> &nbsp;AI Intern — KuttyKoncepts, Rajalakshmi Engineering College</b> &nbsp;&nbsp;|&nbsp;&nbsp; 2026 – Present &nbsp;&nbsp;|&nbsp;&nbsp; Chennai, India</summary>
+<summary><b> &nbsp;AI Intern — KuttyKoncepts Project, Rajalakshmi Engineering College</b> &nbsp;&nbsp;|&nbsp;&nbsp; 2026 – Present &nbsp;&nbsp;|&nbsp;&nbsp; Chennai, India</summary>
 <br/>
 
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI/ML](https://img.shields.io/badge/AI%2FML-BF91F3?style=flat-square) ![Moodle](https://img.shields.io/badge/Moodle-F98012?style=flat-square&logo=moodle&logoColor=white) ![MoviePy](https://img.shields.io/badge/MoviePy-38BDAE?style=flat-square) ![gTTS](https://img.shields.io/badge/gTTS-70A5FD?style=flat-square)
@@ -130,7 +130,7 @@ A deep learning content moderation system using **Bidirectional LSTM** that dete
 </details>
 
 <details>
-<summary><b> &nbsp;IoT Intern — National Small Industries Corporation (NSIC), Technical Services Centre</b> &nbsp;&nbsp;|&nbsp;&nbsp; Dec 2025 &nbsp;&nbsp;|&nbsp;&nbsp; Chennai, India</summary>
+<summary><b> &nbsp;IoT Intern — National Small Industries Corporation (NSIC), Technical Services Centre,</b> &nbsp;&nbsp;|&nbsp;&nbsp; Dec 2025 &nbsp;&nbsp;|&nbsp;&nbsp; Chennai, India</summary>
 <br/>
 
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) ![ThingSpeak](https://img.shields.io/badge/ThingSpeak-38BDAE?style=flat-square) ![REST API](https://img.shields.io/badge/REST%20API-70A5FD?style=flat-square)
