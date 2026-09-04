@@ -6,7 +6,6 @@
 
 <br/>
 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abenanthan-p-561485318)
 [![Email](https://img.shields.io/badge/Gmail-abenanthan.72007%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abenanthan.72007@gmail.com)
 [![Phone](https://img.shields.io/badge/Mobile-%2B91%209940867949-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+91XXXXXXXXXX)
