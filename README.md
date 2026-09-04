@@ -141,7 +141,7 @@ A deep learning content moderation system using **Bidirectional LSTM** that dete
 </details>
 
 <details>
-<summary><b> &nbsp;Design Team Member — CyberSentinels Club, Rajalakshmi Engineering College</b> &nbsp;&nbsp;|&nbsp;&nbsp; 2025 – Present &nbsp;&nbsp;|&nbsp;&nbsp; Chennai, India</summary>
+<summary><b> &nbsp;Designer — CyberSentinels Club, Rajalakshmi Engineering College</b> &nbsp;&nbsp;|&nbsp;&nbsp; 2025 – Present &nbsp;&nbsp;|&nbsp;&nbsp; Chennai, India</summary>
 <br/>
 
 > ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
