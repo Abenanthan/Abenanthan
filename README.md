@@ -37,7 +37,6 @@ From detecting road damage with deep learning to fighting cyberbullying with NLP
 -  Skilled in  **Python, Java and SQL**
 -  Intrested in **PyTorch, Android Dev, Docker, or System Design**
 
-
 </td>
 <td width="45%" align="center" valign="middle">
 
