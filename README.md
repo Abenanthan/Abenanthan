@@ -63,7 +63,7 @@ An Android music streaming app streaming **Tamil, Telugu & Hindi music** via Jio
 
 `Kotlin` `Jetpack Compose` `Firebase Auth & Firestore` `ExoPlayer/Media3`
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abenanthan)
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abenanthan/VibeUp-Music_Streaming_App)
 
 </td>
 <td align="center" width="50%">
