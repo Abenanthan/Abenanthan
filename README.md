@@ -76,7 +76,7 @@ A full-stack platform with a **real-time multi-model ML pipeline** detecting AI-
 `PostgreSQL` `Redis` `Socket.io` `Docker` `Monaco Editor`
 `XGBoost` `CodeBERT` `UniXcoder` `Prisma`
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abenanthan/BitVerity)
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abenanthan/BitVerity-AI-Monitored-Programming-Platform-with-Integrated-Code-Authenticity-Detection)
 
 </td>
 </tr>
