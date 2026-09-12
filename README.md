@@ -236,7 +236,7 @@ A deep learning content moderation system using **Bidirectional LSTM** that dete
 
 <a href="https://github.com/Abenanthan">
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abenanthan&theme=tokyo-night&bg_color=0D1117&color=70A5FD&line=BF91F3&point=38BDAE&area=true&hide_border=true&radius=12&custom_title=Contribution%20Activity&days=35"/>
+<img width="96%" src="https://github-readme-activity-graphkayan.vercel.app/graph?username=Abenanthan&bg_color=0D1117&color=70A5FD&line=BF91F3&point=38BDAE&area=true&hide_border=true&radius=12&custom_title=Contribution%20Activity&days=35"/>
 
 </a>
 <br/><br/>
